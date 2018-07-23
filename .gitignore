@@ -1,0 +1,42 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+spring-mybatis/src/main/java/com/xhl/dao/
+spring-mybatis/src/main/resources/static/
+spring-mybatis/src/main/resources/templates/
+springjpa/src/main/java/com/xhl/springjpa/controller/
+springjpa/src/main/resources/static/
+springjpa/src/main/resources/templates/
+springjpa/src/test/java/com/xhl/ssmhlearning/
+src/main/resources/static/
+src/main/resources/templates/
